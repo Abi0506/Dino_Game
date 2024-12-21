@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+
+canvas{
+    border: 2px solid grey;
+   
+}
+
+body{
+   
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height:100vh;
+
+    user-select: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    touch-action:none;
+    -webkit-touch-callout: none;
+    outline: none;
+    -webkit-tap-highlight-color: rgba(255,255,255,0)
+}
